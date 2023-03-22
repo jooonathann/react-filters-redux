@@ -20,7 +20,7 @@ export const Card = ({ characterOrFilter, deleteharacters }) => {
           X
         </button>
       </span>
-      <Link className="cardContent" to={`character/${item.id}`}>
+      <Link className="cardContent" to={`/react-filters-redux/character/${item.id}`}>
         <h2 className="cardTitle">
           {item.name} <br />
           {item.lastname}
@@ -38,8 +38,6 @@ const mapDispatchToProps = (dispatch) => {
   return {
     deleteharacters: (payload) => dispatch( {type: "characters/characterDeleted", payload} ),
 
-    // deleteFromhobbieDispatch: (payload) =>
-    // dispatch({ type: "categories/deleteFromhobbie", payload }),
   };
 };
 

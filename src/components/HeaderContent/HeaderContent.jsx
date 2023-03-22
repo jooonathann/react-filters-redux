@@ -24,7 +24,7 @@ const HeaderContent = ({
     clearCategories();
     clearFilters();
     isActive(false);
-    navigate("/");
+    navigate("/react-filters-redux/");
   };
 
   return (

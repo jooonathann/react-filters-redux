@@ -4,9 +4,6 @@ import { connect } from "react-redux";
 import ListCards from "./components/ListCards/ListCards";
 import "./css/index.css";
 import FiltersSection from "./components/FiltersSection/FiltersSection";
-import store from "./store";
-// import { fetchCharacters } from "./features/characters/charactersSlice";
-// store.dispatch(fetchCharacters);
 import { Route, Routes } from "react-router-dom";
 import ShowCharacter from "./components/ShowCharacter/ShowCharacter";
 import EditCharacter from "./components/EditCharacter/EditCharacter";
@@ -24,7 +21,7 @@ export const App = ({ characters }) => {
           <Routes>
             <Route
               exact
-              path="/"
+              path="/react-filters-redux/"
               element={
                 <>
                   <FiltersSection />
@@ -34,11 +31,11 @@ export const App = ({ characters }) => {
             />
             <Route
               exact
-              path="create-new-character"
+              path="react-filters-redux/create-new-character"
               element={<CreateCharacter />}
             />
-            <Route path="character/:id" element={<ShowCharacter />} />
-            <Route path="character/:id/edit" element={<EditCharacter />} />
+            <Route path="react-filters-redux/character/:id" element={<ShowCharacter />} />
+            <Route path="react-filters-redux/character/:id/edit" element={<EditCharacter />} />
             <Route path="*" element={<h1>Error 404</h1>} />
           </Routes>
         ) : (

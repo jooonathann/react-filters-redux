@@ -300,7 +300,7 @@ const FiltersSection = ({
         hamburgerStatus.isActive ? " opened" : ""
       }`}
     >
-      <Link to="/create-new-character">
+      <Link to="/react-filters-redux/create-new-character">
         <button className="createCharacterButton">Create New Character</button>
       </Link>
 

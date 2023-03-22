@@ -424,8 +424,11 @@ li {
   color: var(--secondaryColor);
 }
 .imgShowCharacter {
-  width: 15em;
+
+  width: 80%;
   justify-content: center;
+  min-width: 3em;
+  max-width: 15em;
   margin: 1em;
 }
 

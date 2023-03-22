@@ -63,7 +63,8 @@ const CreateCharacter = ({ createNewCharacter, isActive }) => {
     createNewCharacter(newCharacter);
 
     setTimeout(() => {
-      navigate(`/character/${newCharacter.id}`);
+
+      navigate(`/react-filters-redux/character/${newCharacter.id}`);
     }, "250");
   };
 
