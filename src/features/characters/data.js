@@ -4,7 +4,7 @@ let arr = [
     "name": "Lucas",
     "lastname": "Hope",
     "age": 28,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "Mexico",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -14,7 +14,7 @@ let arr = [
     "name": "Camila",
     "lastname": "Hill",
     "age": 28,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "Japan",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -24,7 +24,7 @@ let arr = [
     "name": "Henry",
     "lastname": "Damon",
     "age": 30,
-    "favoriteColor": "Magenta",
+    "favoritecolor": "Magenta",
     "country": "Colombia",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -34,7 +34,7 @@ let arr = [
     "name": "Alexander",
     "lastname": "Lopez",
     "age": 25,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Chile",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -44,7 +44,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Lopez",
     "age": 26,
-    "favoriteColor": "Beige",
+    "favoritecolor": "Beige",
     "country": "Germany",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -54,7 +54,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Gray",
     "age": 22,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Colombia",
     "hobbie": "Taekwondo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -64,7 +64,7 @@ let arr = [
     "name": "Sophia",
     "lastname": "Walker",
     "age": 40,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Mexico",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -74,7 +74,7 @@ let arr = [
     "name": "Camila",
     "lastname": "Hope",
     "age": 45,
-    "favoriteColor": "orange",
+    "favoritecolor": "orange",
     "country": "Argentina",
     "hobbie": "Fishkeeping",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -84,7 +84,7 @@ let arr = [
     "name": "Lucas",
     "lastname": "Boselli",
     "age": 24,
-    "favoriteColor": "gray",
+    "favoritecolor": "gray",
     "country": "Colombia",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -94,7 +94,7 @@ let arr = [
     "name": "Lucas",
     "lastname": "Escobar",
     "age": 41,
-    "favoriteColor": "Gold",
+    "favoritecolor": "Gold",
     "country": "Uruguay",
     "hobbie": "Inventing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -104,7 +104,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "West",
     "age": 48,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "United States",
     "hobbie": "Wikipedia editing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -114,7 +114,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "Smith",
     "age": 40,
-    "favoriteColor": "Maroon",
+    "favoritecolor": "Maroon",
     "country": "United States",
     "hobbie": "Judo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -124,7 +124,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "Zimmerman",
     "age": 35,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Portugal",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -134,7 +134,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Walker",
     "age": 44,
-    "favoriteColor": "Magenta",
+    "favoritecolor": "Magenta",
     "country": "Spain",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -144,7 +144,7 @@ let arr = [
     "name": "Evelyn",
     "lastname": "Scott",
     "age": 34,
-    "favoriteColor": "gray",
+    "favoritecolor": "gray",
     "country": "Brazil",
     "hobbie": "Scuba diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -154,7 +154,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Damon",
     "age": 46,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "Chile",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -164,7 +164,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Adams",
     "age": 36,
-    "favoriteColor": "Purple",
+    "favoritecolor": "Purple",
     "country": "Brazil",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -174,7 +174,7 @@ let arr = [
     "name": "James",
     "lastname": "West",
     "age": 42,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "England",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -184,7 +184,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Hope",
     "age": 29,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "Spain",
     "hobbie": "Witchcraft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -194,7 +194,7 @@ let arr = [
     "name": "Evelyn",
     "lastname": "Zimmerman",
     "age": 39,
-    "favoriteColor": "Gold",
+    "favoritecolor": "Gold",
     "country": "Egipt",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -204,7 +204,7 @@ let arr = [
     "name": "Jack",
     "lastname": "King",
     "age": 47,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "Uruguay",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -214,7 +214,7 @@ let arr = [
     "name": "Levi",
     "lastname": "Lopez",
     "age": 22,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Japan",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -224,7 +224,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Adams",
     "age": 31,
-    "favoriteColor": "Purple",
+    "favoritecolor": "Purple",
     "country": "Sweden",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -234,7 +234,7 @@ let arr = [
     "name": "Levi",
     "lastname": "Lewis",
     "age": 43,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "Argentina",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -244,7 +244,7 @@ let arr = [
     "name": "Henry",
     "lastname": "Adams",
     "age": 38,
-    "favoriteColor": "Gold",
+    "favoritecolor": "Gold",
     "country": "Portugal",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -254,7 +254,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Hope",
     "age": 46,
-    "favoriteColor": "Violet",
+    "favoritecolor": "Violet",
     "country": "Brazil",
     "hobbie": "Airsoft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -264,7 +264,7 @@ let arr = [
     "name": "Evelyn",
     "lastname": "Gray",
     "age": 30,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "Germany",
     "hobbie": "Automobilism",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -274,7 +274,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Gonzales",
     "age": 29,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Chile",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -284,7 +284,7 @@ let arr = [
     "name": "Mateo",
     "lastname": "Nelson",
     "age": 46,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "United States",
     "hobbie": "Inventing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -294,7 +294,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Young",
     "age": 20,
-    "favoriteColor": "White",
+    "favoritecolor": "White",
     "country": "Chile",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -304,7 +304,7 @@ let arr = [
     "name": "James",
     "lastname": "Wright",
     "age": 22,
-    "favoriteColor": "Gold",
+    "favoritecolor": "Gold",
     "country": "Uruguay",
     "hobbie": "Animation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -314,7 +314,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Ford",
     "age": 31,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "England",
     "hobbie": "Karate",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -324,7 +324,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "West",
     "age": 23,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Portugal",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -334,7 +334,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Zimmerman",
     "age": 26,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Egipt",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -344,7 +344,7 @@ let arr = [
     "name": "Noah",
     "lastname": "Torres",
     "age": 37,
-    "favoriteColor": "orange",
+    "favoritecolor": "orange",
     "country": "Colombia",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -354,7 +354,7 @@ let arr = [
     "name": "Henry",
     "lastname": "Zimmerman",
     "age": 37,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "Spain",
     "hobbie": "Writing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -364,7 +364,7 @@ let arr = [
     "name": "Camila",
     "lastname": "King",
     "age": 35,
-    "favoriteColor": "Maroon",
+    "favoritecolor": "Maroon",
     "country": "Egipt",
     "hobbie": "Gardening",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -374,7 +374,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Gonzales",
     "age": 38,
-    "favoriteColor": "Coral",
+    "favoritecolor": "Coral",
     "country": "Brazil",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -384,7 +384,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "West",
     "age": 33,
-    "favoriteColor": "Violet",
+    "favoritecolor": "Violet",
     "country": "Brazil",
     "hobbie": "Karate",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -394,7 +394,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Scott",
     "age": 29,
-    "favoriteColor": "Peach",
+    "favoritecolor": "Peach",
     "country": "United States",
     "hobbie": "Airsoft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -404,7 +404,7 @@ let arr = [
     "name": "Ava",
     "lastname": "Scott",
     "age": 49,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "Brazil",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -414,7 +414,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Gonzales",
     "age": 46,
-    "favoriteColor": "Peach",
+    "favoritecolor": "Peach",
     "country": "Japan",
     "hobbie": "Automobilism",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -424,7 +424,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Gonzales",
     "age": 43,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Portugal",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -434,7 +434,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Walker",
     "age": 41,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Colombia",
     "hobbie": "Taekwondo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -444,7 +444,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "West",
     "age": 43,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Germany",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -454,7 +454,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Young",
     "age": 38,
-    "favoriteColor": "Violet",
+    "favoritecolor": "Violet",
     "country": "Brazil",
     "hobbie": "Chatting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -464,7 +464,7 @@ let arr = [
     "name": "Theodore",
     "lastname": "Escobar",
     "age": 20,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "Colombia",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -474,7 +474,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Madison",
     "age": 39,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "England",
     "hobbie": "Gardening",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -484,7 +484,7 @@ let arr = [
     "name": "Gianna",
     "lastname": "Flores",
     "age": 35,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Japan",
     "hobbie": "Book restoration",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -494,7 +494,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Hill",
     "age": 39,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Colombia",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -504,7 +504,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Flores",
     "age": 32,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "China",
     "hobbie": "Automobilism",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -514,7 +514,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Smith",
     "age": 29,
-    "favoriteColor": "Salmon",
+    "favoritecolor": "Salmon",
     "country": "England",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -524,7 +524,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Lopez",
     "age": 44,
-    "favoriteColor": "Coral",
+    "favoritecolor": "Coral",
     "country": "Sweden",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -534,7 +534,7 @@ let arr = [
     "name": "William",
     "lastname": "Escobar",
     "age": 26,
-    "favoriteColor": "Purple",
+    "favoritecolor": "Purple",
     "country": "China",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -544,7 +544,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Nguyen",
     "age": 43,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Argentina",
     "hobbie": "Hacking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -554,7 +554,7 @@ let arr = [
     "name": "James",
     "lastname": "Ford",
     "age": 43,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "Egipt",
     "hobbie": "Automobilism",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -564,7 +564,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Young",
     "age": 38,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "China",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -574,7 +574,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Nguyen",
     "age": 29,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Chile",
     "hobbie": "Gardening",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -584,7 +584,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "Gonzales",
     "age": 28,
-    "favoriteColor": "Turquoise",
+    "favoritecolor": "Turquoise",
     "country": "Germany",
     "hobbie": "Hacking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -594,7 +594,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Nguyen",
     "age": 27,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Brazil",
     "hobbie": "Karate",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -604,7 +604,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Gray",
     "age": 47,
-    "favoriteColor": "White",
+    "favoritecolor": "White",
     "country": "Brazil",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -614,7 +614,7 @@ let arr = [
     "name": "Charlotte",
     "lastname": "Adler",
     "age": 45,
-    "favoriteColor": "brown",
+    "favoritecolor": "brown",
     "country": "Colombia",
     "hobbie": "Hacking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -624,7 +624,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Gray",
     "age": 41,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "Mexico",
     "hobbie": "Hacking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -634,7 +634,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Scott",
     "age": 27,
-    "favoriteColor": "Violet",
+    "favoritecolor": "Violet",
     "country": "Brazil",
     "hobbie": "Wikipedia editing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -644,7 +644,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Lopez",
     "age": 31,
-    "favoriteColor": "Beige",
+    "favoritecolor": "Beige",
     "country": "Spain",
     "hobbie": "Witchcraft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -654,7 +654,7 @@ let arr = [
     "name": "Emma",
     "lastname": "Allen",
     "age": 35,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Portugal",
     "hobbie": "Judo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -664,7 +664,7 @@ let arr = [
     "name": "Levi",
     "lastname": "Keller",
     "age": 43,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Chile",
     "hobbie": "Automobilism",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -674,7 +674,7 @@ let arr = [
     "name": "Sophia",
     "lastname": "Keller",
     "age": 41,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "Chile",
     "hobbie": "Livestreaming",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -684,7 +684,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Gonzales",
     "age": 47,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "China",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -694,7 +694,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Young",
     "age": 42,
-    "favoriteColor": "brown",
+    "favoritecolor": "brown",
     "country": "Germany",
     "hobbie": "Hacking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -704,7 +704,7 @@ let arr = [
     "name": "Noah",
     "lastname": "Green",
     "age": 31,
-    "favoriteColor": "Violet",
+    "favoritecolor": "Violet",
     "country": "Argentina",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -714,7 +714,7 @@ let arr = [
     "name": "James",
     "lastname": "Gonzales",
     "age": 43,
-    "favoriteColor": "Purple",
+    "favoritecolor": "Purple",
     "country": "Chile",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -724,7 +724,7 @@ let arr = [
     "name": "William",
     "lastname": "Wright",
     "age": 31,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Spain",
     "hobbie": "Reading",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -734,7 +734,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Lewis",
     "age": 32,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Colombia",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -744,7 +744,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Flores",
     "age": 39,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "Sweden",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -754,7 +754,7 @@ let arr = [
     "name": "Levi",
     "lastname": "Torres",
     "age": 21,
-    "favoriteColor": "Magenta",
+    "favoritecolor": "Magenta",
     "country": "Argentina",
     "hobbie": "Scuba diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -764,7 +764,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "King",
     "age": 29,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Brazil",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -774,7 +774,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Green",
     "age": 35,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Germany",
     "hobbie": "Taekwondo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -784,7 +784,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Madison",
     "age": 38,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Germany",
     "hobbie": "Basketball",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -794,7 +794,7 @@ let arr = [
     "name": "Mateo",
     "lastname": "Allen",
     "age": 41,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Japan",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -804,7 +804,7 @@ let arr = [
     "name": "Charlotte",
     "lastname": "Hope",
     "age": 47,
-    "favoriteColor": "White",
+    "favoritecolor": "White",
     "country": "Germany",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -814,7 +814,7 @@ let arr = [
     "name": "Lucas",
     "lastname": "Nguyen",
     "age": 34,
-    "favoriteColor": "orange",
+    "favoritecolor": "orange",
     "country": "Portugal",
     "hobbie": "Wikipedia editing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -824,7 +824,7 @@ let arr = [
     "name": "Elizabeth",
     "lastname": "Adams",
     "age": 39,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Uruguay",
     "hobbie": "Taekwondo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -834,7 +834,7 @@ let arr = [
     "name": "Mateo",
     "lastname": "Lewis",
     "age": 38,
-    "favoriteColor": "brown",
+    "favoritecolor": "brown",
     "country": "United States",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -844,7 +844,7 @@ let arr = [
     "name": "Ava",
     "lastname": "Young",
     "age": 41,
-    "favoriteColor": "orange",
+    "favoritecolor": "orange",
     "country": "Sweden",
     "hobbie": "Livestreaming",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -854,7 +854,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Adler",
     "age": 43,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "United States",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -864,7 +864,7 @@ let arr = [
     "name": "Harper",
     "lastname": "Walker",
     "age": 29,
-    "favoriteColor": "Beige",
+    "favoritecolor": "Beige",
     "country": "Germany",
     "hobbie": "Gardening",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -874,7 +874,7 @@ let arr = [
     "name": "Mateo",
     "lastname": "Lewis",
     "age": 34,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Argentina",
     "hobbie": "Livestreaming",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -884,7 +884,7 @@ let arr = [
     "name": "Ava",
     "lastname": "Damon",
     "age": 37,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "England",
     "hobbie": "Singing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -894,7 +894,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "Walker",
     "age": 30,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Uruguay",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -904,7 +904,7 @@ let arr = [
     "name": "Gianna",
     "lastname": "Green",
     "age": 41,
-    "favoriteColor": "Magenta",
+    "favoritecolor": "Magenta",
     "country": "Sweden",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -914,7 +914,7 @@ let arr = [
     "name": "Theodore",
     "lastname": "Jenkins",
     "age": 26,
-    "favoriteColor": "Coral",
+    "favoritecolor": "Coral",
     "country": "Portugal",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -924,7 +924,7 @@ let arr = [
     "name": "Gianna",
     "lastname": "Madison",
     "age": 41,
-    "favoriteColor": "Gold",
+    "favoritecolor": "Gold",
     "country": "China",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -934,7 +934,7 @@ let arr = [
     "name": "Harper",
     "lastname": "Wright",
     "age": 33,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Mexico",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -944,7 +944,7 @@ let arr = [
     "name": "Liam",
     "lastname": "Allen",
     "age": 30,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Mexico",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -954,7 +954,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "West",
     "age": 46,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "China",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -964,7 +964,7 @@ let arr = [
     "name": "James",
     "lastname": "Jenkins",
     "age": 42,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Spain",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -974,7 +974,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Zimmerman",
     "age": 33,
-    "favoriteColor": "Cyan",
+    "favoritecolor": "Cyan",
     "country": "China",
     "hobbie": "Judo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -984,7 +984,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Smith",
     "age": 26,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "Japan",
     "hobbie": "Witchcraft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -994,7 +994,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Lewis",
     "age": 42,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "England",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1004,7 +1004,7 @@ let arr = [
     "name": "Liam",
     "lastname": "Scott",
     "age": 45,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Spain",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1014,7 +1014,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Jenkins",
     "age": 46,
-    "favoriteColor": "gray",
+    "favoritecolor": "gray",
     "country": "Chile",
     "hobbie": "Writing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1024,7 +1024,7 @@ let arr = [
     "name": "William",
     "lastname": "Robinson",
     "age": 46,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Mexico",
     "hobbie": "Book restoration",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1034,7 +1034,7 @@ let arr = [
     "name": "Harper",
     "lastname": "Keller",
     "age": 31,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "Spain",
     "hobbie": "Singing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1044,7 +1044,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Madison",
     "age": 25,
-    "favoriteColor": "Magenta",
+    "favoritecolor": "Magenta",
     "country": "Chile",
     "hobbie": "Writing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1054,7 +1054,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Keller",
     "age": 21,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "Portugal",
     "hobbie": "Chatting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1064,7 +1064,7 @@ let arr = [
     "name": "Mateo",
     "lastname": "Jenkins",
     "age": 36,
-    "favoriteColor": "orange",
+    "favoritecolor": "orange",
     "country": "Egipt",
     "hobbie": "Reading",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1074,7 +1074,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Gonzales",
     "age": 38,
-    "favoriteColor": "brown",
+    "favoritecolor": "brown",
     "country": "Portugal",
     "hobbie": "Singing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1084,7 +1084,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Allen",
     "age": 40,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Egipt",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1094,7 +1094,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Escobar",
     "age": 36,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Germany",
     "hobbie": "Reading",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1104,7 +1104,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Adams",
     "age": 45,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Chile",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1114,7 +1114,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Boselli",
     "age": 38,
-    "favoriteColor": "Turquoise",
+    "favoritecolor": "Turquoise",
     "country": "Colombia",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1124,7 +1124,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Torres",
     "age": 30,
-    "favoriteColor": "Violet",
+    "favoritecolor": "Violet",
     "country": "Egipt",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1134,7 +1134,7 @@ let arr = [
     "name": "Henry",
     "lastname": "Keller",
     "age": 46,
-    "favoriteColor": "Navy blue",
+    "favoritecolor": "Navy blue",
     "country": "Brazil",
     "hobbie": "Scuba diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1144,7 +1144,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Lewis",
     "age": 30,
-    "favoriteColor": "brown",
+    "favoritecolor": "brown",
     "country": "Mexico",
     "hobbie": "Chatting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1154,7 +1154,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "Young",
     "age": 20,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "Germany",
     "hobbie": "Reading",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1164,7 +1164,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Young",
     "age": 45,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Mexico",
     "hobbie": "Karate",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1174,7 +1174,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Allen",
     "age": 35,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Japan",
     "hobbie": "Scuba diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1184,7 +1184,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Torres",
     "age": 25,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "Mexico",
     "hobbie": "Scuba diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1194,7 +1194,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Hope",
     "age": 45,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Portugal",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1204,7 +1204,7 @@ let arr = [
     "name": "Theodore",
     "lastname": "Hope",
     "age": 30,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Spain",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -1214,7 +1214,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Green",
     "age": 33,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "Japan",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1224,7 +1224,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Nelson",
     "age": 38,
-    "favoriteColor": "Navy blue",
+    "favoritecolor": "Navy blue",
     "country": "Egipt",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1234,7 +1234,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Gonzales",
     "age": 45,
-    "favoriteColor": "Maroon",
+    "favoritecolor": "Maroon",
     "country": "Mexico",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1244,7 +1244,7 @@ let arr = [
     "name": "Sophia",
     "lastname": "Escobar",
     "age": 33,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Colombia",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1254,7 +1254,7 @@ let arr = [
     "name": "Emma",
     "lastname": "Escobar",
     "age": 42,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "England",
     "hobbie": "Animation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1264,7 +1264,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Gonzales",
     "age": 47,
-    "favoriteColor": "Beige",
+    "favoritecolor": "Beige",
     "country": "Japan",
     "hobbie": "Witchcraft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1274,7 +1274,7 @@ let arr = [
     "name": "James",
     "lastname": "Gray",
     "age": 26,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Germany",
     "hobbie": "Taekwondo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1284,7 +1284,7 @@ let arr = [
     "name": "Theodore",
     "lastname": "Nguyen",
     "age": 31,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "Argentina",
     "hobbie": "Wikipedia editing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1294,7 +1294,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Jenkins",
     "age": 47,
-    "favoriteColor": "Beige",
+    "favoritecolor": "Beige",
     "country": "Portugal",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1304,7 +1304,7 @@ let arr = [
     "name": "Emma",
     "lastname": "Gray",
     "age": 36,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "China",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1314,7 +1314,7 @@ let arr = [
     "name": "Elizabeth",
     "lastname": "Hope",
     "age": 39,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Mexico",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1324,7 +1324,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Madison",
     "age": 45,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Mexico",
     "hobbie": "Inventing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1334,7 +1334,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Wright",
     "age": 45,
-    "favoriteColor": "Peach",
+    "favoritecolor": "Peach",
     "country": "Egipt",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1344,7 +1344,7 @@ let arr = [
     "name": "Sophia",
     "lastname": "Jenkins",
     "age": 23,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Argentina",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1354,7 +1354,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Walker",
     "age": 34,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Colombia",
     "hobbie": "Scuba diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1364,7 +1364,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Zimmerman",
     "age": 37,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Colombia",
     "hobbie": "Gardening",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1374,7 +1374,7 @@ let arr = [
     "name": "Emma",
     "lastname": "Madison",
     "age": 31,
-    "favoriteColor": "Purple",
+    "favoritecolor": "Purple",
     "country": "Spain",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1384,7 +1384,7 @@ let arr = [
     "name": "Jack",
     "lastname": "West",
     "age": 34,
-    "favoriteColor": "Cyan",
+    "favoritecolor": "Cyan",
     "country": "Mexico",
     "hobbie": "Basketball",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1394,7 +1394,7 @@ let arr = [
     "name": "Gianna",
     "lastname": "Jenkins",
     "age": 46,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Argentina",
     "hobbie": "Livestreaming",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1404,7 +1404,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Gray",
     "age": 34,
-    "favoriteColor": "Turquoise",
+    "favoritecolor": "Turquoise",
     "country": "Argentina",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1414,7 +1414,7 @@ let arr = [
     "name": "James",
     "lastname": "King",
     "age": 34,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Mexico",
     "hobbie": "Scuba diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1424,7 +1424,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Gonzales",
     "age": 32,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Mexico",
     "hobbie": "Book restoration",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1434,7 +1434,7 @@ let arr = [
     "name": "Elizabeth",
     "lastname": "Wright",
     "age": 43,
-    "favoriteColor": "Peach",
+    "favoritecolor": "Peach",
     "country": "Mexico",
     "hobbie": "Cooking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1444,7 +1444,7 @@ let arr = [
     "name": "Alexander",
     "lastname": "Allen",
     "age": 33,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Japan",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -1454,7 +1454,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Wright",
     "age": 27,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Brazil",
     "hobbie": "Fishkeeping",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -1464,7 +1464,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Green",
     "age": 20,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Portugal",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1474,7 +1474,7 @@ let arr = [
     "name": "Mia",
     "lastname": "West",
     "age": 30,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Argentina",
     "hobbie": "Writing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1484,7 +1484,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Damon",
     "age": 25,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Portugal",
     "hobbie": "Singing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1494,7 +1494,7 @@ let arr = [
     "name": "Harper",
     "lastname": "Boselli",
     "age": 44,
-    "favoriteColor": "Lime",
+    "favoritecolor": "Lime",
     "country": "Uruguay",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1504,7 +1504,7 @@ let arr = [
     "name": "Elizabeth",
     "lastname": "Robinson",
     "age": 36,
-    "favoriteColor": "Coral",
+    "favoritecolor": "Coral",
     "country": "Mexico",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1514,7 +1514,7 @@ let arr = [
     "name": "Camila",
     "lastname": "Jenkins",
     "age": 25,
-    "favoriteColor": "Peach",
+    "favoritecolor": "Peach",
     "country": "Portugal",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1524,7 +1524,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Allen",
     "age": 48,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Portugal",
     "hobbie": "Karate",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1534,7 +1534,7 @@ let arr = [
     "name": "Evelyn",
     "lastname": "Scott",
     "age": 35,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "China",
     "hobbie": "Singing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1544,7 +1544,7 @@ let arr = [
     "name": "Mia",
     "lastname": "Ford",
     "age": 21,
-    "favoriteColor": "White",
+    "favoritecolor": "White",
     "country": "Spain",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1554,7 +1554,7 @@ let arr = [
     "name": "Sophia",
     "lastname": "Ford",
     "age": 48,
-    "favoriteColor": "orange",
+    "favoritecolor": "orange",
     "country": "Chile",
     "hobbie": "Hacking",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1564,7 +1564,7 @@ let arr = [
     "name": "Levi",
     "lastname": "Keller",
     "age": 30,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Spain",
     "hobbie": "Meditation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1574,7 +1574,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Keller",
     "age": 29,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Germany",
     "hobbie": "Fishkeeping",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1584,7 +1584,7 @@ let arr = [
     "name": "William",
     "lastname": "Adler",
     "age": 44,
-    "favoriteColor": "Magenta",
+    "favoritecolor": "Magenta",
     "country": "China",
     "hobbie": "Inventing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -1594,7 +1594,7 @@ let arr = [
     "name": "Evelyn",
     "lastname": "Keller",
     "age": 42,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Germany",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1604,7 +1604,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Gray",
     "age": 31,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Uruguay",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1614,7 +1614,7 @@ let arr = [
     "name": "William",
     "lastname": "Boselli",
     "age": 48,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Germany",
     "hobbie": "Animation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1624,7 +1624,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Zimmerman",
     "age": 46,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Colombia",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1634,7 +1634,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Damon",
     "age": 23,
-    "favoriteColor": "gray",
+    "favoritecolor": "gray",
     "country": "Chile",
     "hobbie": "Wikipedia editing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1644,7 +1644,7 @@ let arr = [
     "name": "Levi",
     "lastname": "Hill",
     "age": 20,
-    "favoriteColor": "Cyan",
+    "favoritecolor": "Cyan",
     "country": "Spain",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1654,7 +1654,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Boselli",
     "age": 34,
-    "favoriteColor": "orange",
+    "favoritecolor": "orange",
     "country": "Colombia",
     "hobbie": "Chatting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1664,7 +1664,7 @@ let arr = [
     "name": "Oliver",
     "lastname": "Hope",
     "age": 41,
-    "favoriteColor": "Cyan",
+    "favoritecolor": "Cyan",
     "country": "Japan",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1674,7 +1674,7 @@ let arr = [
     "name": "Evelyn",
     "lastname": "Gonzales",
     "age": 21,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Spain",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1684,7 +1684,7 @@ let arr = [
     "name": "William",
     "lastname": "Ford",
     "age": 32,
-    "favoriteColor": "Gold",
+    "favoritecolor": "Gold",
     "country": "United States",
     "hobbie": "Automobilism",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1694,7 +1694,7 @@ let arr = [
     "name": "Alexander",
     "lastname": "Lopez",
     "age": 27,
-    "favoriteColor": "Peach",
+    "favoritecolor": "Peach",
     "country": "Japan",
     "hobbie": "Taekwondo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1704,7 +1704,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Flores",
     "age": 41,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "Japan",
     "hobbie": "Yoga",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1714,7 +1714,7 @@ let arr = [
     "name": "Noah",
     "lastname": "Torres",
     "age": 41,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "China",
     "hobbie": "Dancing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1724,7 +1724,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Lopez",
     "age": 31,
-    "favoriteColor": "yellow",
+    "favoritecolor": "yellow",
     "country": "Mexico",
     "hobbie": "Animation",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1734,7 +1734,7 @@ let arr = [
     "name": "Evelyn",
     "lastname": "Boselli",
     "age": 20,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "China",
     "hobbie": "Wikipedia editing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1744,7 +1744,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Smith",
     "age": 40,
-    "favoriteColor": "Olive",
+    "favoritecolor": "Olive",
     "country": "Japan",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1754,7 +1754,7 @@ let arr = [
     "name": "Sofia",
     "lastname": "Escobar",
     "age": 48,
-    "favoriteColor": "Purple",
+    "favoritecolor": "Purple",
     "country": "Germany",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1764,7 +1764,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Gray",
     "age": 33,
-    "favoriteColor": "brown",
+    "favoritecolor": "brown",
     "country": "United States",
     "hobbie": "Witchcraft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1774,7 +1774,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Damon",
     "age": 29,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Chile",
     "hobbie": "Storytelling",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1784,7 +1784,7 @@ let arr = [
     "name": "Isabella",
     "lastname": "Damon",
     "age": 48,
-    "favoriteColor": "red",
+    "favoritecolor": "red",
     "country": "Mexico",
     "hobbie": "Diving",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1794,7 +1794,7 @@ let arr = [
     "name": "Alexander",
     "lastname": "Adler",
     "age": 31,
-    "favoriteColor": "Navy blue",
+    "favoritecolor": "Navy blue",
     "country": "Portugal",
     "hobbie": "Writing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1804,7 +1804,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "Madison",
     "age": 23,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Argentina",
     "hobbie": "Watching movies",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1814,7 +1814,7 @@ let arr = [
     "name": "Sophia",
     "lastname": "Lopez",
     "age": 49,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Brazil",
     "hobbie": "Automobilism",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1824,7 +1824,7 @@ let arr = [
     "name": "Jack",
     "lastname": "Walker",
     "age": 33,
-    "favoriteColor": "Turquoise",
+    "favoritecolor": "Turquoise",
     "country": "Mexico",
     "hobbie": "Judo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1834,7 +1834,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Hill",
     "age": 23,
-    "favoriteColor": "Navy blue",
+    "favoritecolor": "Navy blue",
     "country": "Sweden",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1844,7 +1844,7 @@ let arr = [
     "name": "Jonathan",
     "lastname": "Gray",
     "age": 41,
-    "favoriteColor": "blue",
+    "favoritecolor": "blue",
     "country": "Argentina",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1854,7 +1854,7 @@ let arr = [
     "name": "Olivia",
     "lastname": "Robinson",
     "age": 27,
-    "favoriteColor": "Turquoise",
+    "favoritecolor": "Turquoise",
     "country": "Brazil",
     "hobbie": "Blacksmith",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1864,7 +1864,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Green",
     "age": 48,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "Mexico",
     "hobbie": "Witchcraft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1874,7 +1874,7 @@ let arr = [
     "name": "Elijah",
     "lastname": "Flores",
     "age": 43,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "Colombia",
     "hobbie": "Shitposting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_1_bigger.png"
@@ -1884,7 +1884,7 @@ let arr = [
     "name": "Amelia",
     "lastname": "Madison",
     "age": 43,
-    "favoriteColor": "Ivory",
+    "favoritecolor": "Ivory",
     "country": "Japan",
     "hobbie": "Reading",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1894,7 +1894,7 @@ let arr = [
     "name": "Henry",
     "lastname": "Scott",
     "age": 39,
-    "favoriteColor": "pink",
+    "favoritecolor": "pink",
     "country": "Mexico",
     "hobbie": "Judo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1904,7 +1904,7 @@ let arr = [
     "name": "William",
     "lastname": "Young",
     "age": 39,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Argentina",
     "hobbie": "Reading",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1914,7 +1914,7 @@ let arr = [
     "name": "Jackson",
     "lastname": "Nguyen",
     "age": 43,
-    "favoriteColor": "Green",
+    "favoritecolor": "Green",
     "country": "China",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1924,7 +1924,7 @@ let arr = [
     "name": "Alexander",
     "lastname": "Damon",
     "age": 42,
-    "favoriteColor": "Purple",
+    "favoritecolor": "Purple",
     "country": "England",
     "hobbie": "Basketball",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_6_bigger.png"
@@ -1934,7 +1934,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Green",
     "age": 30,
-    "favoriteColor": "Beige",
+    "favoritecolor": "Beige",
     "country": "Brazil",
     "hobbie": "Judo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1944,7 +1944,7 @@ let arr = [
     "name": "Benjamin",
     "lastname": "Madison",
     "age": 44,
-    "favoriteColor": "Indigo",
+    "favoritecolor": "Indigo",
     "country": "Germany",
     "hobbie": "Witchcraft",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1954,7 +1954,7 @@ let arr = [
     "name": "Theodore",
     "lastname": "Hope",
     "age": 30,
-    "favoriteColor": "Teal",
+    "favoritecolor": "Teal",
     "country": "Egipt",
     "hobbie": "Chatting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_2_bigger.png"
@@ -1964,7 +1964,7 @@ let arr = [
     "name": "Charlotte",
     "lastname": "Adler",
     "age": 38,
-    "favoriteColor": "gray",
+    "favoritecolor": "gray",
     "country": "Mexico",
     "hobbie": "Singing",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"
@@ -1974,7 +1974,7 @@ let arr = [
     "name": "Emma",
     "lastname": "Adler",
     "age": 39,
-    "favoriteColor": "Violet",
+    "favoritecolor": "Violet",
     "country": "Colombia",
     "hobbie": "Cryptography",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_5_bigger.png"
@@ -1984,7 +1984,7 @@ let arr = [
     "name": "Levi",
     "lastname": "Gonzales",
     "age": 29,
-    "favoriteColor": "Black",
+    "favoritecolor": "Black",
     "country": "China",
     "hobbie": "Chatting",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_3_bigger.png"
@@ -1994,7 +1994,7 @@ let arr = [
     "name": "Alexander",
     "lastname": "Madison",
     "age": 26,
-    "favoriteColor": "Silver",
+    "favoritecolor": "Silver",
     "country": "United States",
     "hobbie": "Judo",
     "image": "https://blog.za3k.com/wp-content/uploads/2015/03/default_profile_4_bigger.png"

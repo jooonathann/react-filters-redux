@@ -9,7 +9,7 @@ const ShowCharacter = ({ characters, isActive }) => {
     console.log('SHOW CHARACTERS')
   },)
 
-  // console.log(characters);
+  console.log(characters);
   const indexOfChar = characters.findIndex((ele) => ele.id === parseInt(id));
 
   useEffect(() => {
@@ -30,7 +30,7 @@ const ShowCharacter = ({ characters, isActive }) => {
       </div>
       <div className="otherCharacterInfo">
         <p>Age: {characters[indexOfChar].age}</p>
-        <p>favorite Color: {characters[indexOfChar].favoritecolor}</p>
+        <p>Favorite Color: {characters[indexOfChar].favoritecolor}</p>
         <p>Country: {characters[indexOfChar].country}</p>
         <p>Hobbie: {characters[indexOfChar].hobbie}</p>
         <img className="imgShowCharacter" src={characters[indexOfChar].image} />
