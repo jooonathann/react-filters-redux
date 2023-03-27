@@ -38,9 +38,33 @@ export const App = ({ characters }) => {
             <Route path="react-filters-redux/character/:id/edit" element={<EditCharacter />} />
             <Route path="*" element={<h1>Error 404</h1>} />
           </Routes>
-        ) : (
-          <h1>No characters to show</h1>
-        )}
+        ) :
+        // (
+        //   <h1>No characters to show</h1>
+        // )
+        (
+          <Routes>
+            <Route
+              exact
+              path="/react-filters-redux/"
+              element={
+                <>
+                  <FiltersSection />
+                  <h1 className="noCharacters">No characters to show</h1>
+                </>
+              }
+            />
+            <Route
+              exact
+              path="react-filters-redux/create-new-character"
+              element={<CreateCharacter />}
+            />
+            <Route path="react-filters-redux/character/:id" element={<ShowCharacter />} />
+            <Route path="react-filters-redux/character/:id/edit" element={<EditCharacter />} />
+            <Route path="*" element={<h1>Error 404</h1>} />
+          </Routes>
+        )
+        }
       </div>
     </div>
   );
