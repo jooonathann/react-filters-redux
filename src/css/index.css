@@ -26,6 +26,7 @@ body {
 /* Typography */
 .noCharacters {
   color: var(--primaryColor);
+  text-align: center;
 }
 .headerTitle {
   text-align: center;
@@ -547,6 +548,16 @@ input {
 .createTitle {
   color: var(--primaryColor);
 }
+
+/* no Characters section */
+
+
+.noCharactersSection {
+  width: 100%;
+  border-radius: 10px;
+  background: var(--bgContainer);
+}
+
 
 /* Create Character */
 @media (min-width: 650px) {

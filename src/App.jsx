@@ -34,15 +34,17 @@ export const App = ({ characters }) => {
               path="react-filters-redux/create-new-character"
               element={<CreateCharacter />}
             />
-            <Route path="react-filters-redux/character/:id" element={<ShowCharacter />} />
-            <Route path="react-filters-redux/character/:id/edit" element={<EditCharacter />} />
-            <Route path="*" element={<h1>Error 404</h1>} />
+            <Route
+              path="react-filters-redux/character/:id"
+              element={<ShowCharacter />}
+            />
+            <Route
+              path="react-filters-redux/character/:id/edit"
+              element={<EditCharacter />}
+            />
+            <Route path="*" element={<h1  className="noCharacters">Error 404</h1>} />
           </Routes>
-        ) :
-        // (
-        //   <h1>No characters to show</h1>
-        // )
-        (
+        ) : (
           <Routes>
             <Route
               exact
@@ -50,7 +52,9 @@ export const App = ({ characters }) => {
               element={
                 <>
                   <FiltersSection />
-                  <h1 className="noCharacters">No characters to show</h1>
+                  <div className="noCharactersSection">
+                    <h1 className="noCharacters">No characters to show</h1>
+                  </div>
                 </>
               }
             />
@@ -59,12 +63,17 @@ export const App = ({ characters }) => {
               path="react-filters-redux/create-new-character"
               element={<CreateCharacter />}
             />
-            <Route path="react-filters-redux/character/:id" element={<ShowCharacter />} />
-            <Route path="react-filters-redux/character/:id/edit" element={<EditCharacter />} />
+            <Route
+              path="react-filters-redux/character/:id"
+              element={<ShowCharacter />}
+            />
+            <Route
+              path="react-filters-redux/character/:id/edit"
+              element={<EditCharacter />}
+            />
             <Route path="*" element={<h1>Error 404</h1>} />
           </Routes>
-        )
-        }
+        )}
       </div>
     </div>
   );
@@ -73,6 +82,5 @@ export const App = ({ characters }) => {
 const mapStateToProps = (state) => {
   return { characters: state.characters };
 };
-
 
 export default connect(mapStateToProps, null)(App);
